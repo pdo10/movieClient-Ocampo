@@ -1,0 +1,24 @@
+{
+	"regularUser":{
+		"email":"",
+		"password":""
+	},
+	"adminUser":{
+		"email":"",
+		"password":""
+	},
+	"endpoints":{
+		"login":"",
+		"register":"",
+		"addMovie":"",
+		"getAllMovies":"",
+		"getMovieById":"",
+		"updateMovie":"",
+		"deleteMovie":"",
+		"addMovieRating":"",
+		"AddMovieComment":"",
+		"getMovieRating":"",
+		"getMovieComments":"",
+		"getActorsByMovie":""
+	}
+}
